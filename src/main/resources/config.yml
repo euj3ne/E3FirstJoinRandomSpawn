@@ -1,2 +1,3 @@
-world: world
-radius: 10000
+settings:
+  world: world
+  radius: 10000
